@@ -1,0 +1,6 @@
+tqdm==4.66.1
+fastapi>=0.95.1
+uvicorn>=0.22.0
+fastmcp
+beautifulsoup4
+gitpython
